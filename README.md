@@ -1,3 +1,4 @@
 # amigo-first
 this is my first repository
-Authore-punya pratap singh bhati
+<br>
+Author - punya pratap singh bhati
